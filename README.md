@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there welcome to my repository! 👋
+
+ - in the process of improvement, coming soon with more information 👯
 
 <!--
 **Marianttonia/Marianttonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
